@@ -1,25 +1,25 @@
-## Kimchi
-### Ingredients
-#### Main
-1-2 heads of napa cabbage (Get enough for 6lbs worth = yield 3 liters) 
-4 TBSP salt (per head of cabbage, but honestly it doesn't matter, just salt it a shit ton)
+# Kimchi
+## Ingredients
+### Main
+1-2 heads of napa cabbage (Get enough for 6lbs worth = yield 3 liters)  
+4 TBSP salt (per head of cabbage, but honestly it doesn't matter, just salt it a shit ton)  
 
-#### Other Vegs (all optional tbh)
-1-1.5 carrots, fine julienned (basically thinly sliced into straws)
-1/2 onion, thinly sliced
-4 stalks green onion, cut into 3-4 inches length
-1/4 of a daikon (around 3 inches length), batonned (french fry sized)
+### Other Vegs (all optional tbh)
+1-1.5 carrots, fine julienned (basically thinly sliced into straws)  
+1/2 onion, thinly sliced  
+4 stalks green onion, cut into 3-4 inches length  
+1/4 of a daikon (around 3 inches length), batonned (french fry sized)  
 
-#### Paste
-whole head of garlic (or less, if garlic isn't your thing) 
-1 tsp ginger
-1/2 tsp beef dashida (BEEF BOULLION, MSG)
-3 tsp sugar
-2 1/2 tsp salted fermented shrimp sauce (Saeujeot)
-1/2 cup (Anchovy) fish sauce
-1/2 cup korean red pepper flakes (gochugaru, or to preferred spicy level, which also depends on the brand)
+### Paste
+whole head of garlic (or less, if garlic isn't your thing), peeled   
+1 tsp ginger  
+1/2 tsp beef dashida (BEEF BOULLION, MSG)  
+3 tsp sugar  
+2 1/2 tsp salted fermented shrimp sauce (Saeujeot)  
+1/2 cup (Anchovy) fish sauce  
+1/2 cup korean red pepper flakes (gochugaru, or to preferred spicy level, which also depends on the brand)  
 
-### Instructions
+## Instructions
 1. Cut the napa cabbage into "rectangles". The way I cut it is to cut the napa cabbage length-wise into quarters (cut in half, then cut that in half), cut off the core of the cabbage but cutting at an angle, and the slicing those long quarters into 1 inch or 1 1/2 inches which gives a decent sized bite. 
 
 2. In a large bowl, add (ideally) kosher salt or pickling salt to the bottom. Add in a handful of the cut cabbage, and then add salt on top of that, then add another handful of cabbage and so on. The amount of salt doesn't matter much, I'd say around 1 tbsp of salt for each "layer". The goal here is to wilt the cabbage and remove that moisture.
